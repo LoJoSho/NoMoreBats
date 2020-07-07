@@ -1,0 +1,6 @@
+name: NoMoreBats
+version: ${project.version}
+main: me.lojosho.NoBats
+api-version: 1.16
+authors: [LoJoSho]
+description: Removes bats
